@@ -1,7 +1,7 @@
 # Introduction
 HIV is one of the chronic diseases that is associated with high mortality and morbidity despite the invention of new ART medicines. Especially the patients in immunocompromised or in the Chronic stage are more prone to death than those in the acute stage of the disease. 
 Therefore predicting the mortality at this stage will prevent the disease progression to AIDS and chances of succumbing to death. Most of the studies used statistical methods to predict the mortality and only few studies used DL and ML this led me to use ML to predict the mortality. 
-This is a binary classification problem that identifies patients died from the survived. This was a 
+This is a binary classification problem that identifies patients died from the survived.
 
 # Method
 The whole prediction task has been done in following steps:
